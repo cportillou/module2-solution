@@ -16,7 +16,8 @@ p {
   /*background-color: #999291;*/
   margin-right: auto;
   margin-left: auto;
-  padding:10px;
+  padding-left:10px;
+  padding-right:10px
   color: #000000;
 }
 
